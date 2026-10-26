@@ -7,6 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=behloleaqil1&label=Profile%20views&color=2f81f7&style=flat" alt="profile views" />
+  <a href="https://behloleaqil.com"><img src="https://img.shields.io/badge/Portfolio-behloleaqil.com-2F81F7?style=flat&logo=googlechrome&logoColor=white" alt="portfolio" /></a>
+  <a href="https://tools.dewelope.com"><img src="https://img.shields.io/badge/DeWelope%20Tools-tools.dewelope.com-8B5CF6?style=flat&logo=hackthebox&logoColor=white" alt="DeWelope tools" /></a>
   <a href="mailto:behloleaqil@gmail.com"><img src="https://img.shields.io/badge/Email-behloleaqil%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
@@ -16,7 +18,9 @@
 
 I'm a full-stack engineer who builds products end to end, from **Spring Boot microservices** and **Node.js APIs** to **React** and **Next.js** frontends, with mobile work in **Flutter**. Lately I've been building AI-powered tools with **LangChain** and LLMs, and automating workflows with **Puppeteer**.
 
-- 🔭 Currently building **LeadForge** (lead generation platform) and **DeWelope**
+- 🔭 Currently building **LeadForge** (lead generation platform) and **[DeWelope](https://tools.dewelope.com)**
+- 🌐 Portfolio: **[behloleaqil.com](https://behloleaqil.com)**
+- 🧰 Developer tools: **[tools.dewelope.com](https://tools.dewelope.com)**
 - 🤖 Exploring AI servers, LLM apps and agent workflows
 - ☁️ Deploying and scaling on **AWS**
 - 🎓 I mentor and train students for free, helping them break into tech
@@ -52,7 +56,7 @@ I'm a full-stack engineer who builds products end to end, from **Spring Boot mic
 
 | Project | Description | Stack |
 |---|---|---|
-| [**DeWelope**](https://github.com/behloleaqil1/dewelope-site) | Website and developer tools for DeWelope | Web, JS |
+| [**DeWelope Tools**](https://tools.dewelope.com) | Online developer tools ([site repo](https://github.com/behloleaqil1/dewelope-site) · [tools repo](https://github.com/behloleaqil1/dewelope-tools)) | Web, JS |
 | [**Binance Trader**](https://github.com/behloleaqil1/binance-trader) | Automated crypto trading bot with a [dashboard UI](https://github.com/behloleaqil1/binance-trader-ui) | Node.js, React |
 | [**Spring Microservices**](https://github.com/behloleaqil1/Spring-Microservices) | Microservice architecture with Spring Boot | Java, Spring |
 | [**E-commerce (Spring Boot + React)**](https://github.com/behloleaqil1/Ecommerce-SpringBoot-React) | Full-stack e-commerce platform | Java, React |
@@ -77,13 +81,7 @@ I'm a full-stack engineer who builds products end to end, from **Spring Boot mic
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=behloleaqil1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=behloleaqil1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution chart" />
 </p>
 
 ### 🐍 Contribution Snake
