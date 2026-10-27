@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/behloleaqil1/lair/pull/18) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. 🎉 Merged PR [#17](https://github.com/behloleaqil1/lair/pull/17) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. 🎉 Merged PR [#16](https://github.com/behloleaqil1/lair/pull/16) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. 🗣 Commented on [#14](https://github.com/behloleaqil1/lair/pull/14#issuecomment-6423248255) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. ❌ Closed PR [#14](https://github.com/behloleaqil1/lair/pull/14) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 💪 Opened PR [#17](https://github.com/behloleaqil1/lair/pull/17) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 🗣 Commented on [#14](https://github.com/behloleaqil1/lair/pull/14#issuecomment-6421512331) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 💪 Opened PR [#16](https://github.com/behloleaqil1/lair/pull/16) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. 🎉 Merged PR [#25](https://github.com/behloleaqil1/lair/pull/25) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. 💪 Opened PR [#25](https://github.com/behloleaqil1/lair/pull/25) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. 🎉 Merged PR [#24](https://github.com/behloleaqil1/lair/pull/24) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. 🎉 Merged PR [#21](https://github.com/behloleaqil1/lair/pull/21) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 💪 Opened PR [#24](https://github.com/behloleaqil1/lair/pull/24) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. 🎉 Merged PR [#19](https://github.com/behloleaqil1/lair/pull/19) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🎉 Merged PR [#20](https://github.com/behloleaqil1/lair/pull/20) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 💪 Opened PR [#23](https://github.com/behloleaqil1/lair/pull/23) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
