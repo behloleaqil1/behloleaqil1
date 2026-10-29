@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#74](https://github.com/behloleaqil1/lair/pull/74) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. 🎉 Merged PR [#71](https://github.com/behloleaqil1/lair/pull/71) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. 🎉 Merged PR [#65](https://github.com/behloleaqil1/lair/pull/65) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. 🎉 Merged PR [#70](https://github.com/behloleaqil1/lair/pull/70) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. 🎉 Merged PR [#75](https://github.com/behloleaqil1/lair/pull/75) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 🎉 Merged PR [#73](https://github.com/behloleaqil1/lair/pull/73) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 🎉 Merged PR [#76](https://github.com/behloleaqil1/lair/pull/76) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. ℹ️ Labeled issue [#83](https://github.com/behloleaqil1/lair/issues/83) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. 🎉 Merged PR [#66](https://github.com/behloleaqil1/lair/pull/66) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. 🎉 Merged PR [#74](https://github.com/behloleaqil1/lair/pull/74) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. 🎉 Merged PR [#71](https://github.com/behloleaqil1/lair/pull/71) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. 🎉 Merged PR [#65](https://github.com/behloleaqil1/lair/pull/65) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 🎉 Merged PR [#70](https://github.com/behloleaqil1/lair/pull/70) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. 🎉 Merged PR [#75](https://github.com/behloleaqil1/lair/pull/75) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🎉 Merged PR [#73](https://github.com/behloleaqil1/lair/pull/73) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🎉 Merged PR [#76](https://github.com/behloleaqil1/lair/pull/76) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
