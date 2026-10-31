@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#222](https://github.com/behloleaqil1/lair/issues/222) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. 🎉 Merged PR [#223](https://github.com/behloleaqil1/lair/pull/223) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. ❗ Opened issue [#231](https://github.com/behloleaqil1/lair/issues/231) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. ❗ Opened issue [#230](https://github.com/behloleaqil1/lair/issues/230) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. ❗ Opened issue [#229](https://github.com/behloleaqil1/lair/issues/229) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. ❗ Opened issue [#228](https://github.com/behloleaqil1/lair/issues/228) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. ❗ Opened issue [#227](https://github.com/behloleaqil1/lair/issues/227) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 💪 Opened PR [#226](https://github.com/behloleaqil1/lair/pull/226) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. ℹ️ Labeled issue [#239](https://github.com/behloleaqil1/lair/issues/239) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. ❗ Opened issue [#239](https://github.com/behloleaqil1/lair/issues/239) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. ℹ️ Labeled issue [#238](https://github.com/behloleaqil1/lair/issues/238) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. ❗ Opened issue [#238](https://github.com/behloleaqil1/lair/issues/238) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 💪 Opened PR [#237](https://github.com/behloleaqil1/lair/pull/237) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. 🔒 Closed issue [#225](https://github.com/behloleaqil1/lair/issues/225) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. ❗ Opened issue [#236](https://github.com/behloleaqil1/lair/issues/236) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🎉 Merged PR [#235](https://github.com/behloleaqil1/lair/pull/235) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
