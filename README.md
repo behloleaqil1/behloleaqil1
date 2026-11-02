@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#304](https://github.com/behloleaqil1/lair/pull/304) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. ℹ️ Reopened PR [#303](https://github.com/behloleaqil1/lair/pull/303) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. ❌ Closed PR [#303](https://github.com/behloleaqil1/lair/pull/303) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. 💪 Opened PR [#303](https://github.com/behloleaqil1/lair/pull/303) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. ❌ Closed PR [#277](https://github.com/behloleaqil1/lair/pull/277) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 🗣 Commented on [#277](https://github.com/behloleaqil1/lair/pull/277#issuecomment-6571115835) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 💪 Opened PR [#302](https://github.com/behloleaqil1/lair/pull/302) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 🎉 Merged PR [#293](https://github.com/behloleaqil1/lair/pull/293) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. 🗣 Commented on [#328](https://github.com/behloleaqil1/lair/pull/328#issuecomment-6586983517) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. ℹ️ Labeled issue [#341](https://github.com/behloleaqil1/lair/issues/341) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. ❗ Opened issue [#341](https://github.com/behloleaqil1/lair/issues/341) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. ❗ Opened issue [#340](https://github.com/behloleaqil1/lair/issues/340) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. ℹ️ Reopened PR [#334](https://github.com/behloleaqil1/lair/pull/334) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. ❌ Closed PR [#334](https://github.com/behloleaqil1/lair/pull/334) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🗣 Commented on [#256](https://github.com/behloleaqil1/lair/issues/256#issuecomment-6586798686) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🗣 Commented on [#317](https://github.com/behloleaqil1/lair/issues/317#issuecomment-6586726120) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
