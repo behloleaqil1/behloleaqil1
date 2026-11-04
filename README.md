@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#366](https://github.com/behloleaqil1/lair/issues/366) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. 🎉 Merged PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. 💪 Opened PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. 💪 Opened PR [#364](https://github.com/behloleaqil1/lair/pull/364) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. 🎉 Merged PR [#343](https://github.com/behloleaqil1/lair/pull/343) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 🗣 Commented on [#350](https://github.com/behloleaqil1/lair/issues/350#issuecomment-6608198556) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 💪 Opened PR [#363](https://github.com/behloleaqil1/lair/pull/363) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. ℹ️ Labeled issue [#362](https://github.com/behloleaqil1/lair/issues/362) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. 🔒 Closed issue [#366](https://github.com/behloleaqil1/lair/issues/366) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. 🎉 Merged PR [#367](https://github.com/behloleaqil1/lair/pull/367) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. 🗣 Commented on [#366](https://github.com/behloleaqil1/lair/issues/366#issuecomment-6624169764) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. 🗣 Commented on [#366](https://github.com/behloleaqil1/lair/issues/366#issuecomment-6624011645) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 💪 Opened PR [#367](https://github.com/behloleaqil1/lair/pull/367) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. ❗ Opened issue [#366](https://github.com/behloleaqil1/lair/issues/366) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🎉 Merged PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 💪 Opened PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
