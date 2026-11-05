@@ -125,7 +125,7 @@ const behlole = {
 5. 🗣 Commented on [#366](https://github.com/behloleaqil1/lair/issues/366#issuecomment-6624011645) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 6. 💪 Opened PR [#367](https://github.com/behloleaqil1/lair/pull/367) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 7. ❗ Opened issue [#366](https://github.com/behloleaqil1/lair/issues/366) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 💪 Opened PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🎉 Merged PR [#365](https://github.com/behloleaqil1/lair/pull/365) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
