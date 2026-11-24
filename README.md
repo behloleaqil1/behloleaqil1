@@ -122,10 +122,10 @@ const behlole = {
 2. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 3. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 4. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. 🗣 Commented on [#341](https://github.com/behloleaqil1/lair/issues/341#issuecomment-6948399256) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 🔒 Closed issue [#366](https://github.com/behloleaqil1/lair/issues/366) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 🗣 Commented on [#366](https://github.com/behloleaqil1/lair/issues/366#issuecomment-6624169764) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 🗣 Commented on [#366](https://github.com/behloleaqil1/lair/issues/366#issuecomment-6624011645) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
