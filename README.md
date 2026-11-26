@@ -118,14 +118,14 @@ const behlole = {
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-2. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-3. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-4. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-5. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-6. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-7. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
-8. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+1. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+2. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+3. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+4. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+5. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+6. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+7. 🔓 Reopened issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
+8. 🔒 Closed issue [#338](https://github.com/behloleaqil1/lair/issues/338) in [behloleaqil1/lair](https://github.com/behloleaqil1/lair)
 <!--END_SECTION:activity-->
 
 ### 🐍 Contribution Snake
